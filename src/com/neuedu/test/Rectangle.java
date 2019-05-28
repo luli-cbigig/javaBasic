@@ -6,13 +6,10 @@ public class Rectangle {
 //    方法：求周长、面积；
 //    方法3个：（1）无参——宽、高默认值为1；（2）1个参数——宽、高均为参数值；（3）2个参数——宽、高各为参数值。
 //    并对其进行测试
-    private int width;
-    private int height;
+    private int width=1;
+    private int height=1;
     public void Circum1(){
-        int width = 1;
-        int height = 1;
         int C = (width + height) * 2;
-        System.out.println("周长为"+C);
     }
     public void square1(){
         int width = 1;
@@ -25,8 +22,6 @@ public class Rectangle {
         this.height=a;
         int C2 = (width + height) * 2;
         int S2 = width * height;
-        System.out.println("周长为"+C2);
-        System.out.println("面积为"+S2);
     }
     public void Circum3(int width,int height){
         int C3=(width+height)*2;
