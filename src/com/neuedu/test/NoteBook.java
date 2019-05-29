@@ -19,7 +19,6 @@ public class NoteBook {
         this.cpu = cpu;
     }
 
-    @Override
     public String toString() {
         return "颜色为：" + color + "  " + "cpu型号为：" + cpu;
 
