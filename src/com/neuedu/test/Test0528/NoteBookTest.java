@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0528;
 
 public class NoteBookTest {
         public static void main(String[] args) {

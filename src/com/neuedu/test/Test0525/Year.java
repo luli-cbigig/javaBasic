@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0525;
 
 import java.util.Scanner;
 //平年与闰年

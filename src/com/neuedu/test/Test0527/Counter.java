@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0527;
 
 public class Counter {
 //    定义一个计算器类，包括加、减、乘、除运算。

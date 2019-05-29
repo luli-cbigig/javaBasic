@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0525;
 
 public class Multiple {
 //    3的倍数

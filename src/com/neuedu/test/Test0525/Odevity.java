@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0525;
 
 public class Odevity {
     public static void main(String[] args) {

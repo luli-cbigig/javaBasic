@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0525;
 
 public class Factorial {
 //    9的阶乘

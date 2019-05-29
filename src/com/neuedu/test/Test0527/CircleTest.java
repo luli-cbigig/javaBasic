@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0527;
 
 import java.util.Scanner;
 
@@ -7,18 +7,13 @@ public class CircleTest {
         Circle cir=new Circle();
         Scanner s=new Scanner(System.in);
         System.out.println("请输入圆的半径(不要输入负值)：");
-        double r=s.nextDouble();
-        if (r<0){
+        double ra=s.nextDouble();
+        cir.setRa(ra);
+        if (ra<0){
             System.out.println("请输入正确的半径");
         }else{
-
             cir.Circum();
             cir.Square();
         }
-
-
-
-
-
     }
 }

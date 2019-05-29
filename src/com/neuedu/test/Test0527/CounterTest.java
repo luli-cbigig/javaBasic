@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0527;
 
 import java.util.Scanner;
 
@@ -8,7 +8,6 @@ public class CounterTest {
         Scanner s = new Scanner(System.in);
         System.out.println("请输入运算方式，1加法，2减法，3乘法，4除法");
         int a = s.nextInt();
-
         System.out.print("请输入第一个数");
         int num1 = s.nextInt();
         counter.num1 = num1 ;

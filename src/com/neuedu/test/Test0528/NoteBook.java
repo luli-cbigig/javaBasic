@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0528;
 
 public class NoteBook {
     //2、定义一个笔记本类，该类有颜色（char）和cpu型号（int）两个属性。

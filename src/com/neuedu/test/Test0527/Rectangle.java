@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0527;
 
 public class Rectangle {
 //    定义长方形类，含：

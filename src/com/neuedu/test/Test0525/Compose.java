@@ -1,4 +1,4 @@
-package com.neuedu.test;
+package com.neuedu.test.Test0525;
 
 public class Compose {
 //    1,2,3,4组合三位数
