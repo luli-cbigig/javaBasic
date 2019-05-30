@@ -7,11 +7,12 @@ public class GraphTest {
 
             System.out.println("请输入正方形的边长");
             Scanner side=new Scanner(System.in);
+            double r=side.nextDouble();
             Square s=new Square();
-            s.setSide(side.nextDouble());
+            s.setSide(r);
+//            System.out.println(s.getSide());
             s.Circum();
             s.Square();
-            System.out.println();
 
             System.out.println("请输入圆形的半径");
             Scanner ridus=new Scanner(System.in);
