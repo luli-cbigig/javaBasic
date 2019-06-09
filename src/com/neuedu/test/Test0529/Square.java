@@ -1,6 +1,6 @@
 package com.neuedu.test.Test0529;
 
-public class Square extends Circle {
+public class Square extends Graph {
     private double side;
 
     public double getSide() {
