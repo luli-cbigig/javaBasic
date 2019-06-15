@@ -36,7 +36,7 @@ public class RandomNum {
     // 把数组中大于10的数放到一个ArrayList集合中
     public static void getList(int[] numArr) {
         // 创建一个集合，用来保存大于10的数
-        List<Integer> numList = new ArrayList<Integer>();
+        List<Integer> numList = new ArrayList<>();
         // 给集合添加元素
         for (int i = 0; i < numArr.length; i++) {
             if (numArr[i] < 10) {
